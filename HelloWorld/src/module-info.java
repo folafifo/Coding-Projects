@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author folafifo
+ *
+ */
+module HelloWorld {
+}
